@@ -1,0 +1,40 @@
+name: Check if Pull Request is ready to be merged
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  pr-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-tags: true
+        fetch-depth: 5
+
+    - name: Extract metadata
+      run: |
+          echo "MODPACK_VERSION=$(jq -r '.version_number' manifest.json)" >> "$GITHUB_ENV"
+
+    - name: Check if version is already tagged
+      run: |
+        VERSION="${{ steps.extract_metadata.outputs.VERSION }}"
+        if git rev-parse "v${{ env.MODPACK_VERSION }}" >/dev/null 2>&1; then
+          echo "Version ${{ env.MODPACK_VERSION }} is already deployed. Update your manifest!"
+          exit 1
+        else
+          echo "Version does not exist yet. Proceeding..."
+        fi
+
+    - name: Check if CHANGELOG.md was updated
+      run: |
+        if git diff --name-only HEAD^ HEAD | grep -q 'CHANGELOG.md'; then
+          echo "CHANGELOG.md was updated. Proceeding..."
+        else
+          echo "CHANGELOG.md was not updated."
+          exit 1
+        fi
