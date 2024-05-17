@@ -1,3 +1,6 @@
+## 1.0.2
+- Updated LCMaxSoundsFix
+
 ## 1.0.1
 - Updated CullFactory to 1.1.2
 - Updated CI
