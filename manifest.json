@@ -1,6 +1,6 @@
 {
     "name": "Purrformancer",
-    "version_number": "1.0.3",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/Netruitus/lc-purrformancer",
     "description": "A base modpack, compilation of mods meant to fix some aspects of the game and boost performance.",
     "dependencies": [
