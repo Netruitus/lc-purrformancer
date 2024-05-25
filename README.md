@@ -2,6 +2,10 @@
 
 A modpack designed to improve gameplay performance and fix known bugs or inconvenience issues. It utilizes mods that are made for this purpose, tested together in normal and fully modded games. The aim of this modpack is to keep it simple and serve as a base for other modpacks or mod profiles. Updates will be provided as soon as possible to enhance the modding experience for the entire community.
 
+## IMPORTANT NOTE
+
+If you use any mods that touches masked enemies (like Skinwalkers or Mirage), you might want to disable fixes for those enemies in config file `butterystancakes.lethalcompany.enemysoundfixes.cfg` - just change `FixMasks` to `false`.
+
 ## Applied Modifications
 
 ### **BepInEx**
@@ -15,6 +19,10 @@ Dynamically assigns appropriate AI behaviors to enemies upon spawning, based on 
 ### **FixRPCLag** by [Bobbie](https://thunderstore.io/c/lethal-company/p/Bobbie)
 
 Addresses performance issues stemming from NetworkManager.LogLevel set to Developer, which triggers significant lag spikes due to printing RPC Table Contents for every RPC error. To mitigate this, we have fully disabled logging levels, ensuring smoother gameplay without interruptions caused by excessive logging.
+
+### **EnemySoundFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
+
+Addresses and fixes various sound issues in Lethal Company, enhancing the audio experience by correcting looping, missing sounds, and improperly pitched effects for different entities in the game. It ensures smoother and more immersive gameplay by resolving these audio problems.
 
 ### **MoreItems** by [Drakorle](https://thunderstore.io/c/lethal-company/p/Drakorle)
 
