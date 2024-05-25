@@ -1,3 +1,6 @@
+## 1.0.3
+- Added EnemySoundFixes
+
 ## 1.0.2
 - Updated LCMaxSoundsFix
 
