@@ -1,3 +1,7 @@
+## 1.1.2
+- Updated:
+    - CullFactory
+
 ## 1.1.1
 - Updated README, because I forgot about the new mod
 - Also added disclaimer for masked enemies fix
