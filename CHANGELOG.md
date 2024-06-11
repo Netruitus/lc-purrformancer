@@ -1,3 +1,7 @@
+## 1.1.3
+- Updated:
+    - EnemySoundFixes
+
 ## 1.1.2
 - Updated:
     - CullFactory
