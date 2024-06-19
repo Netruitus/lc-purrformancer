@@ -1,6 +1,6 @@
 {
     "name": "Purrformancer",
-    "version_number": "1.1.3",
+    "version_number": "1.1.4",
     "website_url": "https://github.com/Netruitus/lc-purrformancer",
     "description": "A base modpack, compilation of mods meant to fix some aspects of the game and boost performance.",
     "dependencies": [
@@ -17,7 +17,7 @@
         "Hardy-LCMaxSoundsFix-1.2.0",
         "itsmeowdev-DoorFix-1.0.0",
         "linkoid-DissonanceLagFix-1.0.0",
-        "mattymatty-AsyncLoggers-1.6.2",
+        "mattymatty-AsyncLoggers-1.6.3",
         "monkes_mods-JumpDelayPatch-1.0.1",
         "Zaggy1024-PathfindingLagFix-1.2.1"
     ]    

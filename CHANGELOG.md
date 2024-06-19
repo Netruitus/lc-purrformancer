@@ -1,3 +1,7 @@
+## 1.1.4
+- Updated:
+    - AsyncLoggers
+
 ## 1.1.3
 - Updated:
     - EnemySoundFixes
