@@ -1,3 +1,8 @@
+# 1.2.0
+- Fully compatible with v56
+- Updated:
+    - StarlancerAIFix
+
 # 1.1.5
 - Updated:
     - EnemySoundFixes
