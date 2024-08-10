@@ -1,10 +1,12 @@
 # Lethal Company - Purrformancer
 
+## Compatible with v56
+
 A modpack designed to improve gameplay performance and fix known bugs or inconvenience issues. It utilizes mods that are made for this purpose, tested together in normal and fully modded games. The aim of this modpack is to keep it simple and serve as a base for other modpacks or mod profiles. Updates will be provided as soon as possible to enhance the modding experience for the entire community.
 
 ## IMPORTANT NOTE
 
-If you use any mods that touches masked enemies (like Skinwalkers or Mirage), you might want to disable fixes for those enemies in config file `butterystancakes.lethalcompany.enemysoundfixes.cfg` - just change `FixMasks` to `false`.
+If you use any mods that is modifying masked enemies (like Skinwalkers or Mirage), you might want to disable fixes for them in config file `butterystancakes.lethalcompany.enemysoundfixes.cfg` - just change `FixMasks` to `false`.
 
 ## Applied Modifications
 
