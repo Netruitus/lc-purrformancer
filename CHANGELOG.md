@@ -2,6 +2,7 @@
 - Fully compatible with v56
 - Updated:
     - StarlancerAIFix
+    - CullFactory
 
 # 1.1.5
 - Updated:
