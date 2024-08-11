@@ -1,3 +1,7 @@
+# 1.2.1
+- Updated:
+    - CullFactory
+
 # 1.2.0
 - Fully compatible with v56
 - Updated:
