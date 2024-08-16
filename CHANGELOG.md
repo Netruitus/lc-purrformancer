@@ -1,5 +1,7 @@
 ## 2024.8.11
 - Change the versioning to date format
+- Updated:
+    - StarlancerAIFix
 
 ## 1.2.1
 - Updated:

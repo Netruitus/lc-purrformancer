@@ -6,7 +6,7 @@
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 
-        "AudioKnight-StarlancerAIFix-3.7.0",
+        "AudioKnight-StarlancerAIFix-3.8.0",
         "Bobbie-FixRPCLag-1.0.1",
         "ButteryStancakes-EnemySoundFixes-1.5.2",
         "Drakorle-MoreItems-1.0.2",
