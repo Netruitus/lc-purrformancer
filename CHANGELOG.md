@@ -1,4 +1,4 @@
-## 2024.8.11
+## 2024.8.16
 - Change the versioning to date format
 - Updated:
     - StarlancerAIFix
