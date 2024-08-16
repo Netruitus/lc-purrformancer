@@ -1,8 +1,14 @@
-# 1.2.1
+## 2024.8.16
+- Change the versioning to date format
+- Updated:
+    - StarlancerAIFix
+    - EnemySoundFixes
+
+## 1.2.1
 - Updated:
     - CullFactory
 
-# 1.2.0
+## 1.2.0
 - Fully compatible with v56
 - Updated:
     - StarlancerAIFix
@@ -10,7 +16,7 @@
     - PathfindingLagFix
     - EnemySoundFixes
 
-# 1.1.5
+## 1.1.5
 - Updated:
     - EnemySoundFixes
 
