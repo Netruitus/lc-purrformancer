@@ -2,6 +2,7 @@
 - Change the versioning to date format
 - Updated:
     - StarlancerAIFix
+    - EnemySoundFixes
 
 ## 1.2.1
 - Updated:
