@@ -1,3 +1,14 @@
+## 2024.9.15
+- Fully compatible with v64
+- Updated:
+    - StarlancerAIFix
+    - EnemySoundFixes
+    - LetMeLookDown
+    - CullFactory
+    - AsyncLoggers
+    - PathfindingLagFix
+- Replaced JumpDelayPatch to NoJumpDelay due to depracation
+
 ## 2024.8.16
 - Change the versioning to date format
 - Updated:
