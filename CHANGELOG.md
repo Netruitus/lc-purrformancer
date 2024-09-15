@@ -1,3 +1,8 @@
+## 2024.9.15
+- Fully compatible with v64
+- Updated:
+    - StarlancerAIFix
+
 ## 2024.8.16
 - Change the versioning to date format
 - Updated:

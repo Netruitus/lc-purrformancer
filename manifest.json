@@ -1,12 +1,12 @@
 {
     "name": "Purrformancer",
-    "version_number": "2024.8.16",
+    "version_number": "2024.9.15",
     "website_url": "https://github.com/Netruitus/lc-purrformancer",
-    "description": "[V56 COMPATIBLE] A base modpack, compilation of mods meant to fix some aspects of the game and boost performance.",
+    "description": "[V64 COMPATIBLE] A base modpack, compilation of mods meant to fix some aspects of the game and boost performance.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 
-        "AudioKnight-StarlancerAIFix-3.8.0",
+        "AudioKnight-StarlancerAIFix-3.8.2",
         "Bobbie-FixRPCLag-1.0.1",
         "ButteryStancakes-EnemySoundFixes-1.5.5",
         "Drakorle-MoreItems-1.0.2",
