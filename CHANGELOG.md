@@ -2,6 +2,7 @@
 - Fully compatible with v64
 - Updated:
     - StarlancerAIFix
+    - EnemySoundFixes
 
 ## 2024.8.16
 - Change the versioning to date format
