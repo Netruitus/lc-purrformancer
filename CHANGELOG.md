@@ -7,6 +7,7 @@
     - CullFactory
     - AsyncLoggers
     - PathfindingLagFix
+- Replaced JumpDelayPatch to NoJumpDelay due to depracation
 
 ## 2024.8.16
 - Change the versioning to date format
