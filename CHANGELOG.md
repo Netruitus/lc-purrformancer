@@ -5,6 +5,7 @@
     - EnemySoundFixes
     - LetMeLookDown
     - CullFactory
+    - AsyncLoggers
 
 ## 2024.8.16
 - Change the versioning to date format
