@@ -4,6 +4,7 @@
     - StarlancerAIFix
     - EnemySoundFixes
     - LetMeLookDown
+    - CullFactory
 
 ## 2024.8.16
 - Change the versioning to date format
