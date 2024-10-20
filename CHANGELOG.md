@@ -1,3 +1,7 @@
+## 2024.10.20
+- Updated:
+    - StarlancerAIFix
+
 ## 2024.9.15
 - Fully compatible with v64
 - Updated:
