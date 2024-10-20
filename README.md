@@ -34,6 +34,10 @@ Addresses and fixes various sound issues in Lethal Company, enhancing the audio 
 
 Fixes jetpack issues in Lethal Company, particularly the overheat explosions caused by faulty collision detection. Resolves bugs like battery drain, enhances thruster controls and improves interactions with tulip snakes. Additional features include corrected proximity warnings, reduced audio distortion and the option to retain momentum when dropping the jetpack.
 
+### **MeleeFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
+
+Fixes bugs with the shovel and kitchen knife. Resolves an issue where the shovel could become unusable if a player died mid-swing and improves hit effects for better feedback. Also optimizes hit sound playback by referencing a cached instance, reducing lag and improving combat fluidity on less powerful computers.
+
 ### **WeedKillerFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
 
 Fixes issues with weed killer, including making vain shrouds responsive again after the v60 update. Improves spray collision detection for vain shrouds hidden in walls and terrain and fixes the cooldown issue for adding HP/turbo to the Cruiser, ensuring sprays yield consistent results

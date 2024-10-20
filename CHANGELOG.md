@@ -18,6 +18,7 @@
     - LethalPerformance
     - JetpackFixes
     - WeedKillerFixes
+    - MeleeFixes
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
