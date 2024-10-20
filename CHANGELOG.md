@@ -2,6 +2,7 @@
 - Updated:
     - StarlancerAIFix
     - EnemySoundFixes
+    - CullFactory
 
 ## 2024.9.15
 - Fully compatible with v64
