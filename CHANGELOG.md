@@ -3,6 +3,7 @@
     - StarlancerAIFix
     - EnemySoundFixes
     - CullFactory
+- Enabled distance culling
 
 ## 2024.9.15
 - Fully compatible with v64
