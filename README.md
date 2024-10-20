@@ -32,11 +32,11 @@ A collection of small, vanilla-compatible bug fixes. Key changes include fixes l
 
 ### **EnemySoundFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
 
-Addresses and fixes various sound issues in Lethal Company, enhancing the audio experience by correcting looping, missing sounds, and improperly pitched effects for different entities in the game. It ensures smoother and more immersive gameplay by resolving these audio problems.
+Addresses and fixes various sound issues, enhancing the audio experience by correcting looping, missing sounds, and improperly pitched effects for different entities in the game. It ensures smoother and more immersive gameplay by resolving these audio problems.
 
 ### **JetpackFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
 
-Fixes jetpack issues in Lethal Company, particularly the overheat explosions caused by faulty collision detection. Resolves bugs like battery drain, enhances thruster controls and improves interactions with tulip snakes. Additional features include corrected proximity warnings, reduced audio distortion and the option to retain momentum when dropping the jetpack.
+Fixes jetpack issues, particularly the overheat explosions caused by faulty collision detection. Resolves bugs like battery drain, enhances thruster controls and improves interactions with tulip snakes. Additional features include corrected proximity warnings, reduced audio distortion and the option to retain momentum when dropping the jetpack.
 
 ### **MeleeFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
 
@@ -56,7 +56,7 @@ Enhances lobby functionality with features like invite-only lobbies, LAN improve
 
 ### **BepInEx Faster Load AssetBundles Patcher** by [DiFFoZ](https://thunderstore.io/c/lethal-company/p/DiFFoZ)
 
-Reduces startup loading time by 60% in Lethal Company by decompressing asset bundles into the game’s cache before loading, improving load speed and reducing RAM usage.
+Reduces startup loading time by 60% by decompressing asset bundles into the game’s cache before loading, improving load speed and reducing RAM usage.
 
 ### **HarmonyXTranspilerFix** by [DiFFoZ](https://thunderstore.io/c/lethal-company/p/DiFFoZ)
 
@@ -95,7 +95,7 @@ Optimizes rendering by culling objects not in view or too distant from the camer
 
 ### **LCMaxSoundsFix** by [Hardy](https://thunderstore.io/c/lethal-company/p/Hardy)
 
-Boosts the maximum number of simultaneously playing sounds in the Unity engine. It should fix for example missing footsteps or sounds issue in Lethal Company, especially prevalent in modded versions.
+Boosts the maximum number of simultaneously playing sounds in the Unity engine. It should fix for example missing footsteps or sounds issue, especially prevalent in modded versions.
 
 ### **DoorFix** by [itsmeowdev](https://thunderstore.io/c/lethal-company/p/itsmeowdev)
 
@@ -107,7 +107,7 @@ Modifies reverb triggers to improve performance without removing map sound cues.
 
 ### **LCUltrawide_Community** by [LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding)
 
-Removes the default 16:9 aspect ratio lock in Lethal Company, enabling support for any resolution and aspect ratio, including ultrawide monitors. Adjusts the UI, HUD and game rendering for better visibility and screen scaling, fixing misalignment issues on wider displays.
+Removes the default 16:9 aspect ratio lock, enabling support for any resolution and aspect ratio, including ultrawide monitors. Adjusts the UI, HUD and game rendering for better visibility and screen scaling, fixing misalignment issues on wider displays.
 
 ### **DissonanceLagFix** by [linkoid](https://thunderstore.io/c/lethal-company/p/linkoid)
 

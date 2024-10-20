@@ -20,8 +20,9 @@
     - WeedKillerFixes
     - MeleeFixes
     - ButteryFixes
-Fixed:
-    - Readme (compatibility version)
+- Fixed:
+    - Compatibility version in readme
+    - Too many mentions for Lethal Company in readme
 - Enabled distance culling
 
 ## 2024.9.15
