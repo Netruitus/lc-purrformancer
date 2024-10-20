@@ -30,6 +30,10 @@ Addresses performance issues stemming from NetworkManager.LogLevel set to Develo
 
 Addresses and fixes various sound issues in Lethal Company, enhancing the audio experience by correcting looping, missing sounds, and improperly pitched effects for different entities in the game. It ensures smoother and more immersive gameplay by resolving these audio problems.
 
+### **JetpackFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
+
+Fixes jetpack issues in Lethal Company, particularly the overheat explosions caused by faulty collision detection. Resolves bugs like battery drain, enhances thruster controls and improves interactions with tulip snakes. Additional features include corrected proximity warnings, reduced audio distortion and the option to retain momentum when dropping the jetpack.
+
 ### **NoJumpDelay** by [DaXcess](https://thunderstore.io/c/lethal-company/p/DaXcess)
 
 Patches out the jump delay.
