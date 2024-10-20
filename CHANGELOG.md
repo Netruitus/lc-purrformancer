@@ -17,6 +17,7 @@
     - HarmonyXTranspilerFix
     - LethalPerformance
     - JetpackFixes
+    - WeedKillerFixes
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
