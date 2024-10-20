@@ -1,3 +1,33 @@
+## 2024.10.20
+- Updated:
+    - StarlancerAIFix
+    - EnemySoundFixes
+    - CullFactory
+- Added:
+    - Loadstone
+    - NestFix
+    - AntiSlimeCamp
+    - CruiserImproved
+    - SmartItemSaving
+    - LCUltrawide_Community
+    - ReverbTriggerFix
+    - LobbyImprovements
+    - AdditionalNetworking
+    - BepInEx_Faster_Load_AssetBundles_Patcher
+    - HarmonyXTranspilerFix
+    - LethalPerformance
+    - JetpackFixes
+    - WeedKillerFixes
+    - MeleeFixes
+    - ButteryFixes
+- Fixed:
+    - Compatibility version in readme
+    - Too many mentions for Lethal Company in readme
+- Enabled distance culling
+- Updated CI to address depracations
+
+Special thanks to pustiul500 for recommendations!
+
 ## 2024.9.15
 - Fully compatible with v64
 - Updated:
