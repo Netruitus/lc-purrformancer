@@ -42,6 +42,10 @@ Enhances lobby functionality with features like invite-only lobbies, LAN improve
 
 Reduces startup loading time by 60% in Lethal Company by decompressing asset bundles into the game’s cache before loading, improving load speed and reducing RAM usage.
 
+### **HarmonyXTranspilerFix** by [DiFFoZ](https://thunderstore.io/c/lethal-company/p/DiFFoZ)
+
+Includes some fixes from upstream repository of HarmonyX.
+
 ### **CruiserImproved** by [DiggC](https://thunderstore.io/c/lethal-company/p/DiggC)
 
 Improves the behavior of Company Cruiser by enhancing visibility, reducing damage from minor impacts and fixing various bugs. Features include better seat height, temporary invulnerability and the ability to push destroyed Cruisers. Also fixes desync issues, improves handling and adds minor features.
