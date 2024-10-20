@@ -11,6 +11,7 @@
     - SmartItemSaving
     - LCUltrawide_Community
     - ReverbTriggerFix
+    - LobbyImprovements
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling

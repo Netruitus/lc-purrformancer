@@ -34,6 +34,10 @@ Addresses and fixes various sound issues in Lethal Company, enhancing the audio 
 
 Patches out the jump delay.
 
+### **LobbyImprovements** by [Dev1A3](https://thunderstore.io/c/lethal-company/p/Dev1A3)
+
+Enhances lobby functionality with features like invite-only lobbies, LAN improvements and custom port settings. Adds a lobby list with direct IP connections, sorting options and lobby tag support. Also integrates Steam's "Recently Played With" feature, offers lobby codes for easy joining and includes customizations for filtering lobby names. Ban prompts now allow custom reasons and kicking players instead of banning.
+
 ### **CruiserImproved** by [DiggC](https://thunderstore.io/c/lethal-company/p/DiggC)
 
 Improves the behavior of Company Cruiser by enhancing visibility, reducing damage from minor impacts and fixing various bugs. Features include better seat height, temporary invulnerability and the ability to push destroyed Cruisers. Also fixes desync issues, improves handling and adds minor features.
