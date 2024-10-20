@@ -26,6 +26,10 @@ Dynamically assigns appropriate AI behaviors to enemies upon spawning, based on 
 
 Addresses performance issues stemming from NetworkManager.LogLevel set to Developer, which triggers significant lag spikes due to printing RPC Table Contents for every RPC error. To mitigate this, we have fully disabled logging levels, ensuring smoother gameplay without interruptions caused by excessive logging.
 
+### **ButteryFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
+
+A collection of small, vanilla-compatible bug fixes. Key changes include fixes like: stormy weather targeting issues, preserving dropship inventory between sessions and addressing various cruiser and entity bugs. Also resolves issues with climbing stamina, HUD displays and accurate scrap counts, along with several item-specific fixes such as flashlight functionality and kitchen knife visibility.
+
 ### **EnemySoundFixes** by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes)
 
 Addresses and fixes various sound issues in Lethal Company, enhancing the audio experience by correcting looping, missing sounds, and improperly pitched effects for different entities in the game. It ensures smoother and more immersive gameplay by resolving these audio problems.

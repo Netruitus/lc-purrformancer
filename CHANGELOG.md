@@ -19,6 +19,7 @@
     - JetpackFixes
     - WeedKillerFixes
     - MeleeFixes
+    - ButteryFixes
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
