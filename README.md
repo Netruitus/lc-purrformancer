@@ -1,6 +1,6 @@
 # Lethal Company - Purrformancer
 
-## Compatible with v56
+## Compatible with v64
 
 A modpack designed to improve gameplay performance and fix known bugs or inconvenience issues. It utilizes mods that are made for this purpose, tested together in normal and fully modded games. The aim of this modpack is to keep it simple and serve as a base for other modpacks or mod profiles. Updates will be provided as soon as possible to enhance the modding experience for the entire community.
 

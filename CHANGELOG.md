@@ -3,9 +3,11 @@
     - StarlancerAIFix
     - EnemySoundFixes
     - CullFactory
-Added:
+- Added:
     - Loadstone
     - NestFix
+Fixed:
+    - Readme (compatibility version)
 - Enabled distance culling
 
 ## 2024.9.15
