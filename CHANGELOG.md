@@ -15,6 +15,7 @@
     - AdditionalNetworking
     - BepInEx_Faster_Load_AssetBundles_Patcher
     - HarmonyXTranspilerFix
+    - LethalPerformance
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling

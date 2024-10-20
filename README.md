@@ -46,6 +46,10 @@ Reduces startup loading time by 60% in Lethal Company by decompressing asset bun
 
 Includes some fixes from upstream repository of HarmonyX.
 
+### **LethalPerformance** by [DiFFoZ](https://thunderstore.io/c/lethal-company/p/DiFFoZ)
+
+Optimizes CPU time and minimizes garbage collection allocation, reducing lag spikes for smoother frame times.
+
 ### **CruiserImproved** by [DiggC](https://thunderstore.io/c/lethal-company/p/DiggC)
 
 Improves the behavior of Company Cruiser by enhancing visibility, reducing damage from minor impacts and fixing various bugs. Features include better seat height, temporary invulnerability and the ability to push destroyed Cruisers. Also fixes desync issues, improves handling and adds minor features.
