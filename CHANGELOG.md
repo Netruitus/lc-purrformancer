@@ -12,6 +12,7 @@
     - LCUltrawide_Community
     - ReverbTriggerFix
     - LobbyImprovements
+    - AdditionalNetworking
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
