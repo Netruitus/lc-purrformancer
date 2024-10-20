@@ -3,6 +3,8 @@
     - StarlancerAIFix
     - EnemySoundFixes
     - CullFactory
+Added:
+    - Loadstone
 - Enabled distance culling
 
 ## 2024.9.15

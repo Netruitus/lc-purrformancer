@@ -14,6 +14,10 @@ If you use any mods that is modifying masked enemies (like Skinwalkers or Mirage
 
 By default, logging is disabled in this modpack. Logging primarily serves debugging purposes during mod or modpack development. For end-user products, logging should be disabled to conserve CPU resources, optimizing the game's performance.
 
+### **Loadstone** by [AdiBTW](https://thunderstore.io/c/lethal-company/p/AdiBTW)
+
+Reduces level loading stutter and voice chat issues. Also offers configurable options like async level generation, AI pathing and performance tweaks.
+
 ### **StarlancerAIFix** by [AudioKnight](https://thunderstore.io/c/lethal-company/p/AudioKnight)
 
 Dynamically assigns appropriate AI behaviors to enemies upon spawning, based on their location within or outside dungeons. Additionally, it resolves a null reference exception related to EnableEnemyMesh().
