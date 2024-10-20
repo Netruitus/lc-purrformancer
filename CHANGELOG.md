@@ -10,6 +10,7 @@
     - CruiserImproved
     - SmartItemSaving
     - LCUltrawide_Community
+    - ReverbTriggerFix
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling

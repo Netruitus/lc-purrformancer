@@ -69,6 +69,10 @@ Boosts the maximum number of simultaneously playing sounds in the Unity engine. 
 
 Corrects door hitboxes, facilitating easier item pickups through open doors. However, it requires aiming at the door to close it, which may be seen as both a benefit and a drawback.
 
+### **ReverbTriggerFix** by [JacobG5](https://thunderstore.io/c/lethal-company/p/JacobG5)
+
+Modifies reverb triggers to improve performance without removing map sound cues. Limits checks to players, enemies and ragdolls, reducing unnecessary calculations on terrain and props. Also optimizes how AudioReverbPresets are referenced, improving efficiency during level loading.
+
 ### **LCUltrawide_Community** by [LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding)
 
 Removes the default 16:9 aspect ratio lock in Lethal Company, enabling support for any resolution and aspect ratio, including ultrawide monitors. Adjusts the UI, HUD and game rendering for better visibility and screen scaling, fixing misalignment issues on wider displays.
