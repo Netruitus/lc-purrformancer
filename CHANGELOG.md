@@ -6,6 +6,7 @@
 - Added:
     - Loadstone
     - NestFix
+    - AntiSlimeCamp
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling

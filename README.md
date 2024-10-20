@@ -77,6 +77,10 @@ An additional layer that moves each logging operation to its own thread, separat
 
 Fixes Baboon Hawk nests positioning on maps.
 
+### **AntiSlimeCamp** by [TestAccount666](https://thunderstore.io/c/lethal-company/p/TestAccount666)
+
+Makes slimes roam the facility instead of camping at entrances.
+
 ### **PathfindingLagFix** by [Zaggy1024](https://thunderstore.io/c/lethal-company/p/Zaggy1024)
 
 Optimizes the AI behavior of Bracken, Snare Flea, and Spore Lizard to prevent performance stutters that can occur every 200 milliseconds in specific situations. By distributing the workload of path checks over multiple frames, it mitigates issues stemming from excessive node accessibility checks, improving overall gameplay stability.
