@@ -13,6 +13,7 @@
     - ReverbTriggerFix
     - LobbyImprovements
     - AdditionalNetworking
+    - BepInEx_Faster_Load_AssetBundles_Patcher
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
