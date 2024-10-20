@@ -34,6 +34,10 @@ Addresses and fixes various sound issues in Lethal Company, enhancing the audio 
 
 Patches out the jump delay.
 
+### **CruiserImproved** by [DiggC](https://thunderstore.io/c/lethal-company/p/DiggC)
+
+Improves the behavior of Company Cruiser by enhancing visibility, reducing damage from minor impacts and fixing various bugs. Features include better seat height, temporary invulnerability and the ability to push destroyed Cruisers. Also fixes desync issues, improves handling and adds minor features.
+
 ### **MoreItems** by [Drakorle](https://thunderstore.io/c/lethal-company/p/Drakorle)
 
 Allows game saves with over 45 items, with support extended up to 999 items. No longer will items despawn upon saving, making it especially handy when combined with mods supporting more than 4 players or when strategically spending credits on items to evade the on-death penalty. However, caution is advised against overloading your system with an excessive number of items, as it may strain your computer's performance.

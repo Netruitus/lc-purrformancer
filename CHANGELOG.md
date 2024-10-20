@@ -7,6 +7,7 @@
     - Loadstone
     - NestFix
     - AntiSlimeCamp
+    - CruiserImproved
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
