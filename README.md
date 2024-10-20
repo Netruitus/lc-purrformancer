@@ -81,6 +81,10 @@ An additional layer that moves each logging operation to its own thread, separat
 
 Fixes Baboon Hawk nests positioning on maps.
 
+### **SmartItemSaving** by [SylviBlossom](https://thunderstore.io/c/lethal-company/p/SylviBlossom)
+
+Improves item saving, preventing issues with modded items being replaced or misaligned after mod changes. Also fixes item rotation and falling through the floor.
+
 ### **AntiSlimeCamp** by [TestAccount666](https://thunderstore.io/c/lethal-company/p/TestAccount666)
 
 Makes slimes roam the facility instead of camping at entrances.

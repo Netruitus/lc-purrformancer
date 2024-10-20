@@ -8,6 +8,7 @@
     - NestFix
     - AntiSlimeCamp
     - CruiserImproved
+    - SmartItemSaving
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling
