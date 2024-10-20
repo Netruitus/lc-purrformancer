@@ -25,6 +25,8 @@
     - Too many mentions for Lethal Company in readme
 - Enabled distance culling
 
+Special thanks to pustiul500 for recommendations!
+
 ## 2024.9.15
 - Fully compatible with v64
 - Updated:
