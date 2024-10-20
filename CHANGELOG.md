@@ -9,6 +9,7 @@
     - AntiSlimeCamp
     - CruiserImproved
     - SmartItemSaving
+    - LCUltrawide_Community
 Fixed:
     - Readme (compatibility version)
 - Enabled distance culling

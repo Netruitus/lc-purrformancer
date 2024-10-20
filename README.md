@@ -69,6 +69,10 @@ Boosts the maximum number of simultaneously playing sounds in the Unity engine. 
 
 Corrects door hitboxes, facilitating easier item pickups through open doors. However, it requires aiming at the door to close it, which may be seen as both a benefit and a drawback.
 
+### **LCUltrawide_Community** by [LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding)
+
+Removes the default 16:9 aspect ratio lock in Lethal Company, enabling support for any resolution and aspect ratio, including ultrawide monitors. Adjusts the UI, HUD and game rendering for better visibility and screen scaling, fixing misalignment issues on wider displays.
+
 ### **DissonanceLagFix** by [linkoid](https://thunderstore.io/c/lethal-company/p/linkoid)
 
 An additional layers to reduce lag spike durations by adjusting the log level of DissonanceVoip. By addressing the issue where DissonanceVoip spamming warnings during lag spikes prolongs the duration, this plugin cuts lag spike durations in half by limiting logging to errors only.
