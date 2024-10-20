@@ -5,6 +5,7 @@
     - CullFactory
 Added:
     - Loadstone
+    - NestFix
 - Enabled distance culling
 
 ## 2024.9.15
